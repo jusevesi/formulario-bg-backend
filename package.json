@@ -1,0 +1,24 @@
+{
+  "name": "prueba-bg-backend",
+  "version": "1.0.0",
+  "description": "prueba bbg",
+  "main": "index.js",
+  "scripts": {
+    "start": "start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusevesi/prueba-bg-backend.git"
+  },
+  "author": "Juan Vera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jusevesi/prueba-bg-backend/issues"
+  },
+  "homepage": "https://github.com/jusevesi/prueba-bg-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
+  }
+}
