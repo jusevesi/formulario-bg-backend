@@ -4,7 +4,7 @@
   "description": "prueba bbg",
   "main": "index.js",
   "scripts": {
-    "start": "start",
+    "start": "node app.js",
     "test": "mocha tests/**/*.test.js"
   },
   "repository": {
