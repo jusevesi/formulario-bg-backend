@@ -1,8 +1,6 @@
-require('dotenv').config();
-//comentario
 const express = require('express');
 const app = express();
-const port = process.env.PORT;
+const port = 8080;
 const {personaRoute} = require('./routes/personas');
 
 app.use(express.json());
@@ -22,7 +20,7 @@ app.get('*', function (req, res) {
 })
 
 app.listen(port, () => {
-    console.log(`Sever Online ${port}`)
+    console.log(`Sever Online`)
 })
 
 module.exports = {
