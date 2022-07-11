@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 8080;
+const port = process.env.PORT;
 const {personaRoute} = require('./routes/personas');
 
 app.use(express.json());
