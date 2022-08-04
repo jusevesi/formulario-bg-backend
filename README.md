@@ -1,6 +1,6 @@
 # prueba-bg-backend
 
-Este repositorio corresponde al backend hecho con node.js para el reto Bdbg.
+Este repositorio corresponde al backend hecho con node.js para el formulariobg.
 
 ## Pasos para ejecutar el proyecto
 
