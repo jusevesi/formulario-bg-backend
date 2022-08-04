@@ -1,4 +1,4 @@
-# prueba-bg-backend
+# Formulario-bg-backend
 
 Este repositorio corresponde al backend hecho con node.js para el formulariobg.
 
